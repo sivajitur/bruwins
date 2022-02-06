@@ -2,6 +2,7 @@
 2021 ASA DataFest
 
 Awards: Best Use of External Data (Hon. Mention)
+Learn more here: http://datafest.stat.ucla.edu/past-datafests/2021-asa-datafesttm-results/
 
 DataFest is a team competition where teams of up to 5 undergraduate students have less than 48 hours to determine who can provide the best insight —and communicate that insight–gleaned from a large, complex dataset. The teams that impress the judges will win prizes. Everyone else will have a great experience, lots of food, and fun.
 
