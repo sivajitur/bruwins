@@ -1,18 +1,16 @@
 # BruWins
 2021 ASA DataFest
 
-Awards: Best Use of External Data (Hon. Mention)
+Awards: Best Use of External Data (Hon. Mention) - For use of both state-level data on marijuana legalization law and counts of drug-related arrests in their analysis of state-level drug use.
+
+
 Learn more here: http://datafest.stat.ucla.edu/past-datafests/2021-asa-datafesttm-results/
 
-DataFest is a team competition where teams of up to 5 undergraduate students have less than 48 hours to determine who can provide the best insight —and communicate that insight–gleaned from a large, complex dataset. The teams that impress the judges will win prizes. Everyone else will have a great experience, lots of food, and fun.
-
-After approaching the data, we wanted to see how relevant it would be to real world applications. This survey contained a lot of data, so it was very versatile and appendable for external data.
+Project Overview: 
 
 We wanted to explore the police arrest rates along with the legalization of drugs across the country. We decided it would be best to make these comparisons by state and see if the police arrest rates and/or marijuana laws affected the rate of drug use in a state.
 
 We think the relevance of these comparisons are incredibly important in order to see how effective the "combative" measures are against drug use.
-
-
 
 We took a very systematic approach to our methodology. First, we searched for and compiled all the marijuana legalization law data by state. We then compiled data about the amount of drug related arrests that take place in each state. Finally, we created a neural network which was modeled off of data from 2018, and tested against 2019 data.
 
